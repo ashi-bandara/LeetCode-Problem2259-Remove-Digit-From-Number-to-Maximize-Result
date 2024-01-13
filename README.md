@@ -1,10 +1,5 @@
 
 # LeetCode Challenge D24
-## Achievements
-[![image.png](https://i.postimg.cc/pV8HZ82H/image.png)](https://postimg.cc/kDnzM261)
-
-This solution outperformed 100% of Java users on LeetCode according to runtime metrics.
-
 
 ## Overview
 
